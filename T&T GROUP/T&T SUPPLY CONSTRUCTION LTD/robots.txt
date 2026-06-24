@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://kev762.github.io/T-T-Supply-Construction-Ltd/sitemap.xml
+
+
